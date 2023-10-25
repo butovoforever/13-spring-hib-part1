@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8c077b4-722c-466b-978e-9a83b3f49a3a" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/13-spring-hib-part1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XFQkZZ1Dyu9gAJvUR1ahqMnmjZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/admin/Desktop/UzumJavaCourse/13-spring-hib-part1",
+    "settings.editor.selected.configurable": "vcs.Git"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8c077b4-722c-466b-978e-9a83b3f49a3a" name="Changes" comment="" />
+      <created>1698222491513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698222491513</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1698239422435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698239422435</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1698240261982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698240261982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="hibernate assignment" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+</project>
